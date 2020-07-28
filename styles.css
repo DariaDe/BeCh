@@ -388,13 +388,13 @@ min-height: 100vh;
 
 .service-content{
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 12px;
   color:#1D1A1A;
   font-weight: 500;
   width:75%;
   margin: 0 auto;
   margin-top: .7em;
-  line-height: 1.5em;
+  line-height: 1.2em;
 }
 
 .p-first{
