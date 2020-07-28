@@ -67,7 +67,7 @@ min-height: 100vh;
 
 
 .slogan{
-  font-size: 6.3em;
+  font-size: 6.5em;
   color: #1D1A1A;
   font-weight:500;
 
@@ -80,7 +80,7 @@ min-height: 100vh;
 .slogan::before{
   content: "BeCherished";
   font-family:'Dancing Script', cursive;
-  font-size: 1.4em;
+  font-size: 1.6em;
   writing-mode: vertical-rl;
  text-orientation: mixed;
  position: absolute;
@@ -388,7 +388,7 @@ min-height: 100vh;
 
 .service-content{
   font-family: 'Lora', serif;
-  font-size: 12px;
+  font-size: 14px;
   color:#1D1A1A;
   font-weight: 500;
   width:75%;
