@@ -389,8 +389,8 @@ min-height: 100vh;
 .service-content{
   font-family: 'Lora', serif;
   font-size: 2vw;
-/*   color:#1D1A1A; */
-  color:red;
+  color:#1D1A1A;
+/*   color:red; */
   font-weight: 500;
   width:75%;
   margin: 0 auto;
