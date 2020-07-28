@@ -116,7 +116,7 @@ opacity:.1;
 .part-color{
   color: #1D1A1A;
   border: 5px solid #EA15C9;
-  margin-bottom: 1.5em;
+  margin-bottom: .5em;
 }
 
 /* Second Page */
@@ -388,7 +388,7 @@ min-height: 100vh;
 
 .service-content{
   font-family: 'Lora', serif;
-  font-size: 2vw;
+  font-size: 4vw;
   color:#1D1A1A;
 /*   color:red; */
   font-weight: 500;
