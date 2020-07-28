@@ -67,7 +67,9 @@ min-height: 100vh;
 
 
 .slogan{
-  font-size: 7em;
+  font-size: 6.5em;
+  width:90%;
+  margin: 0 auto;
   color: #1D1A1A;
   font-weight:500;
 
