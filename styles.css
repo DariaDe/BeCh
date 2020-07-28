@@ -77,6 +77,7 @@ min-height: 100vh;
   text-align: center;
   line-height: 1.3em;
    margin-top: .4em;
+  margin-bottom: .4em;
 }
 
 .slogan::before{
@@ -390,7 +391,7 @@ min-height: 100vh;
 
 .service-content{
   font-family: 'Lora', serif;
-  font-size: 4.5vw;
+  font-size: 4.8vw;
   color:#1D1A1A;
 /*   color:red; */
   font-weight: 500;
