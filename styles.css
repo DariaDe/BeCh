@@ -461,10 +461,91 @@ min-height: 100vh;
 /* Fifth page */
 
 .fifth-page{
-min-height: 100vh;
+  min-width: 100vw;
+  min-height: 100vh;
+ background: #EEE9F5;
+ padding-bottom: 5em;
+
 }
 
 .purple-part{
   background: #250D2C;
   height:40em;
 }
+
+.review-list{
+  position: relative;
+  z-index: 2;
+  margin-top: -19em;
+
+}
+
+.review{
+  background: white;
+  padding: 5em 4.3em 3.5em;
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 1.45vw;
+  color: #1D1A1A;
+  margin: 6em 3.5em;
+  border-radius: 80px;
+  -webkit-box-shadow: 6px 13px 43px -25px rgba(0,0,0,0.75);
+  -moz-box-shadow: 6px 13px 43px -25px rgba(0,0,0,0.75);
+  box-shadow: 6px 13px 43px -25px rgba(0,0,0,0.75);
+
+}
+
+.review-first, .review-second{
+  margin-bottom: 13em;
+}
+
+
+
+.review-first::before{
+  content: "";
+  background: url("images/AlinaReview.png");
+  position: absolute;
+  width:12em;
+  height:12em;
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  left:14%;
+  top:-6.5%;
+
+}
+
+.review-author{
+  font-family: 'Lora', serif;
+  font-size: 1.3vw;
+  color: #1D1A1A;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.review-second::before{
+  content: "";
+  background: url("images/MariaReview.png");
+  position: absolute;
+  width:12em;
+  height:12em;
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  left:14%;
+  top:30%;
+}
+
+.review-third::before{
+  content: "";
+  background: url("images/AlisaReview.png");
+  position: absolute;
+  width:12em;
+  height:12em;
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  left:14%;
+  top:67%;
+}
+
