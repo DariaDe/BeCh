@@ -486,7 +486,7 @@ min-height: 100vh;
   padding: 5em 4.3em 3.5em;
   text-align: center;
   font-family: 'Lora', serif;
-  font-size: 3vw;
+  font-size: 4vw;
   color: #1D1A1A;
   margin: 6em 3.5em;
   border-radius: 80px;
@@ -518,7 +518,7 @@ min-height: 100vh;
 
 .review-author{
   font-family: 'Lora', serif;
-  font-size: 5em;
+  font-size: 3vw;
   color: #1D1A1A;
   font-style: italic;
   font-weight: bold;
