@@ -493,6 +493,7 @@ min-height: 100vh;
   -webkit-box-shadow: 6px 13px 43px -25px rgba(0,0,0,0.75);
   -moz-box-shadow: 6px 13px 43px -25px rgba(0,0,0,0.75);
   box-shadow: 6px 13px 43px -25px rgba(0,0,0,0.75);
+  position:relative;
 
 }
 
@@ -534,7 +535,7 @@ min-height: 100vh;
   background-repeat:   no-repeat;
   background-position: center center;
   left:14%;
-  top:30%;
+  top:-6.5%;
 }
 
 .review-third::before{
@@ -547,6 +548,6 @@ min-height: 100vh;
   background-repeat:   no-repeat;
   background-position: center center;
   left:14%;
-  top:67%;
+  top:-6.5%;
 }
 
